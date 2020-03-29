@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+/* Fazer um algoritmo que irá receber uma quantidade de numeros, armazenar em um array e receber um indice que 
+ * será deletado do array, e imprimir o array ordenado sem este número que foi deletado.
+ */
+
 typedef struct Array{
      int array1[10];
      int array2[10];

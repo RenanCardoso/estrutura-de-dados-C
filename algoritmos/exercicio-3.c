@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+/* Fazer um algoritmo que irá receber uma quantidade de numeros, armazenar em um array e receber um novo número
+ * que deverá ser ordenado dentro do array.
+ */
+
 typedef struct Array{
      int array[51];
 } Array;

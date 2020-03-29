@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+/* Fazer um algoritmo de media
+ */
+
 int main (void){
 
      int i, qtd, soma = 0, media, num[50];

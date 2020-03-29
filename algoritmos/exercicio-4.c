@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/* Fazer um algoritmo que irá receber dois arrays distintos e irá ordenar todos os elementos de ambos arrays.
+ */
+
 typedef struct Array{
 	int array1[10];
 	int array2[10];
@@ -30,8 +33,7 @@ int main(void){
 	for (i = 0; i < qtd * 2; ++i)
 		printf("posicao %d valor: %d\n", i, array.array3[i]);
 
-
-
+	
 	return 0;
 }
 
